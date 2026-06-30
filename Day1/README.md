@@ -1,7 +1,7 @@
 # Day 1 - Introduction to Data Science & Python Basics
 
 ## Date
-29 June 2026
+22 June 2026
 
 ## Overview
 
