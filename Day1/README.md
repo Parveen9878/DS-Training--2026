@@ -1,11 +1,12 @@
-# Day 1 - Introduction to Data Science & Python Basics
+# Day 1 - Introduction to Data Science and Python Fundamentals
 
 ## Date
+
 22 June 2026
 
 ## Overview
 
-Today was the first day of my Data Science training. The session introduced the basics of Data Science and Python programming. Along with the theory, I also practiced simple Python programs to understand the concepts better.
+Today was the first day of my Data Science training. The session introduced the basic concepts of Data Science and Python programming. Along with understanding the theory, I also practiced simple Python programs to become familiar with the language and the development environment.
 
 ---
 
@@ -16,57 +17,91 @@ Today was the first day of my Data Science training. The session introduced the 
 - What is Data Science?
 - Importance of Data Science
 - Real-world applications of Data Science
-- Steps involved in the Data Science Lifecycle
+- Skills required to become a Data Scientist
 
-### Python Basics
+### Data Science Lifecycle
 
-- Introduction to Python
-- Setting up the Python environment
+- Data Collection
+- Data Cleaning
+- Data Exploration
+- Model Building
+- Evaluation
+- Deployment
+
+### Environment Setup
+
+- Python Installation
 - Jupyter Notebook
-- Writing the first Python program
-- Variables and naming rules
-- Input and Output using `input()` and `print()`
-- Basic data types
-- Type conversion
+- Writing and running the first Python program
 
-### Python Data Structures
+### Python Fundamentals
 
-- Strings
-- Lists
-- Tuples
-- Dictionaries
-- Sets
-- Basic operations performed on each data structure
+- Variables
+- Variable naming rules
+- Input using `input()`
+- Output using `print()`
+- Comments in Python
+
+### Data Types
+
+- Integer (`int`)
+- Float (`float`)
+- String (`str`)
+- Boolean (`bool`)
+
+### Operators
+
+- Arithmetic Operators
+- Comparison Operators
+- Logical Operators
+- Assignment Operators
+
+### Type Conversion
+
+- Converting one data type into another using functions like `int()`, `float()`, and `str()`
 
 ---
 
 ## Practice Exercises
 
-To reinforce today's concepts, I completed the following exercises:
+After the class, I completed a few practice exercises to revise the concepts learned during the session.
 
-1. Student Information Form
-2. Simple Calculator
-3. String Practice
-4. List Practice
-5. Dictionary Practice
+The exercises included:
 
-These exercises helped me understand user input, arithmetic operations, string methods, list operations, and dictionary handling in Python.
+- Student Information Form
+- Simple Calculator
+- String Practice
+- List Practice
+- Dictionary Practice
+
+These exercises helped me become more comfortable with user input, variables, string operations, lists, dictionaries, and basic Python programming.
 
 ---
 
 ## Files Included
 
-- **introduction_to_data_science_and_python.ipynb** – Notes and examples from the introductory session.
-- **python_data_structures.ipynb** – Examples and explanations of Python data structures.
-- **practice.ipynb** – Solutions to the practice exercises completed after the session.
+| File Name | Description |
+|-----------|-------------|
+| `introduction_to_data_science_and_python.ipynb` | Class notes covering the fundamentals of Data Science and Python. |
+| `practice.ipynb` | Practice exercises completed after the session. |
 
 ---
 
 ## What I Learned
 
-After today's session, I have a basic understanding of what Data Science is and how Python is used in this field. I learned how to write simple Python programs, work with variables, accept user input, display output, and use common data structures such as strings, lists, tuples, dictionaries, and sets.
+Today's session gave me a good introduction to Data Science and helped me understand how Python is used in this field. I learned how to create variables, take input from users, display output, work with different data types, perform basic operations, and convert values from one data type to another.
 
-The practice exercises also gave me confidence in writing small Python programs on my own.
+Working on the practice exercises also helped me gain confidence in writing simple Python programs and understanding the syntax.
+
+---
+
+## Key Takeaways
+
+- Learned the basics of Data Science and its lifecycle.
+- Set up the Python programming environment.
+- Understood variables, data types, and type conversion.
+- Practiced using `print()` and `input()`.
+- Solved beginner-level Python exercises.
 
 ---
 
@@ -74,7 +109,7 @@ The practice exercises also gave me confidence in writing small Python programs 
 
 - Revise today's concepts.
 - Practice more Python programs.
-- Improve my understanding of Python data structures before the next session.
+- Build a strong understanding of Python fundamentals before moving to advanced topics.
 
 ---
 
