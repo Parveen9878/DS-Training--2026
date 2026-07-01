@@ -1,4 +1,4 @@
-# Day 3 - Functions and Variable Scope
+# Day 4 - Functions and Variable Scope
 
 ## Date
 
