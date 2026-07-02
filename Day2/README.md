@@ -1,4 +1,4 @@
-# Day 2 - Python Operators and Control Flow
+# Day 2 - Python Data Structures
 
 ## Date
 
@@ -6,51 +6,67 @@
 
 ## Overview
 
-The second day of the training focused on understanding Python operators and control flow statements. These concepts are essential because they help in performing calculations, comparing values, making decisions, and controlling the execution of a program. Along with the theory, I practiced several exercises to apply the concepts in different scenarios.
+Today's session focused on Python Data Structures, which are used to store and organize data efficiently. The class covered different built-in data structures, their properties, and commonly used operations. Along with the theory, I practiced several exercises to understand how each data structure can be used in different situations.
 
 ---
 
 ## Topics Covered
 
-### Python Operators
+### Strings (`str`)
 
-- Arithmetic Operators
-- Comparison (Relational) Operators
-- Logical Operators
-- Assignment Operators
-- Identity Operators
-- Membership Operators
+- Introduction to strings
+- Creating strings
+- Indexing and slicing
+- Common string methods
+- String formatting
 
-### Control Flow Statements
+### Lists (`list`)
 
-- `if` Statement
-- `if-else` Statement
-- `if-elif-else` Statement
-- Nested `if` Statements
-- `for` Loop
-- `while` Loop
-- `break` Statement
-- `continue` Statement
-- Using `range()` in loops
+- Creating lists
+- Accessing and updating elements
+- List methods
+- Adding and removing items
+- List slicing
+
+### Tuples (`tuple`)
+
+- Creating tuples
+- Tuple unpacking
+- Characteristics of tuples
+- Difference between lists and tuples
+
+### Dictionaries (`dict`)
+
+- Creating dictionaries
+- Accessing values using keys
+- Updating key-value pairs
+- Dictionary methods
+
+### Sets (`set`)
+
+- Creating sets
+- Adding and removing elements
+- Set operations
+- Removing duplicate values
 
 ---
 
 ## Practice Exercises
 
-To improve my understanding, I completed practice exercises based on the topics covered in class.
+After completing the class, I solved several practice questions based on the concepts learned during the session.
 
 The exercises included:
 
-- Leap Year and Even Number Checker
-- Email Domain Validation
-- Value vs Identity Comparison
-- Simple Grade Calculator
-- Number Classifier
-- Multiplication Table Generator
-- Sum of Even Numbers with Early Stop
-- Number Filtering using `continue`
+- Name Formatter
+- Vowel Replacer
+- Substring Checker
+- Color Swapper
+- List Operations
+- Slice and Reverse
+- Student Dictionary Practice
+- Set Operations
 
-These exercises helped me understand how different operators work and how decision-making and loops can be used to solve programming problems.
+These exercises helped me understand how different data structures are created and manipulated in Python.
 
 ---
 
@@ -58,35 +74,33 @@ These exercises helped me understand how different operators work and how decisi
 
 | File Name | Description |
 |-----------|-------------|
-| `python_operators.ipynb` | Class notes covering different types of Python operators with examples. |
-| `control_flow_statements.ipynb` | Class notes explaining conditional statements, loops, and loop control statements. |
-| `practice.ipynb` | Solutions to the practice exercises completed after the session. |
+| `python_data_structures.ipynb` | Class notes covering Python Strings, Lists, Tuples, Dictionaries, and Sets with examples. |
+| `practice.ipynb` | Practice exercises completed after the session. |
 
 ---
 
 ## What I Learned
 
-Today's session helped me understand how operators are used to perform calculations and compare values in Python. I also learned how conditional statements allow a program to make decisions based on different conditions.
+Today's session helped me understand the importance of Python data structures and when to use each one. I learned how strings can be used to work with text, lists for storing ordered collections, tuples for fixed data, dictionaries for key-value pairs, and sets for storing unique values.
 
-The introduction to loops made it easier to understand how repetitive tasks can be performed efficiently without writing the same code multiple times. Practicing different exercises also improved my confidence in writing simple Python programs using operators, conditions, and loops.
+By solving practice questions, I became more comfortable using built-in methods and performing common operations on different data structures.
 
 ---
 
 ## Key Takeaways
 
-- Learned different categories of Python operators and their usage.
-- Understood how to use conditional statements for decision-making.
-- Practiced `for` and `while` loops.
-- Learned how `break` and `continue` affect loop execution.
-- Applied the concepts through multiple coding exercises.
+- Learned the fundamentals of Python data structures.
+- Practiced common operations on strings, lists, tuples, dictionaries, and sets.
+- Understood the differences between mutable and immutable data types.
+- Improved my understanding through hands-on coding exercises.
 
 ---
 
 ## Next Steps
 
-- Revise all operator types and control flow concepts.
-- Practice more problems using loops and conditional statements.
-- Improve problem-solving skills through regular coding practice.
+- Revise all data structure methods.
+- Practice more questions using lists and dictionaries.
+- Explore real-world examples where different data structures are useful.
 
 ---
 
