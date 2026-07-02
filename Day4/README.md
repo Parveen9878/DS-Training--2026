@@ -2,7 +2,7 @@
 
 ## Date
 
-25 July 2026
+25 June 2026
 
 ## Overview
 
